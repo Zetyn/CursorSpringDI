@@ -1,9 +1,9 @@
 package org.example.players;
 
+import jakarta.annotation.PostConstruct;
 import org.example.models.Song;
 import org.springframework.stereotype.Component;
 
-import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.List;
 
